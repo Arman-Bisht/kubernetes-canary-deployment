@@ -230,7 +230,7 @@ The system provides basic observability:
 
 ### System Validation Test Results
 
-![System Test Results](image.png)
+![System Test Results](canary%20deployment.png)
 
 **Test Results Summary:**
 - ✅ **Pod Status**: All pods running with Istio sidecars (2/2 containers)
@@ -241,7 +241,7 @@ The system provides basic observability:
 
 ### Traffic Distribution Test
 
-![Traffic Distribution Test](image-1.png)
+![Traffic Distribution Test](canary%20deployment.2png.png)
 
 **Traffic Split Results:**
 - **Stable (v1.0)**: 17 requests (85%)

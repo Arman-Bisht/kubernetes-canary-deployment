@@ -241,7 +241,7 @@ curl -s -H "canary: true" http://localhost/ | jq -r .version && echo "✅ Canary
 
 ### System Test Results
 
-![System Validation](image.png)
+![System Validation](canary%20deployment.png)
 
 **Successful Test Output:**
 - ✅ Pod Status: All pods running with Istio sidecars (2/2 containers)
@@ -253,7 +253,7 @@ curl -s -H "canary: true" http://localhost/ | jq -r .version && echo "✅ Canary
 
 ### Traffic Distribution Results
 
-![Traffic Test Results](image-1.png)
+![Traffic Test Results](canary%20deployment.2png.png)
 
 **Traffic Split Validation:**
 - **Stable (v1.0)**: 17 requests (85%)
