@@ -7,6 +7,9 @@ istio-*/
 # Internal project validation files
 DELIVERABLES_CHECKLIST.md
 
+# Personal interview preparation files
+DEMO.md
+
 # Node.js dependencies
 node_modules/
 npm-debug.log*
